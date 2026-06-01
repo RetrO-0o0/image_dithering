@@ -1,0 +1,4 @@
+D:/ALI007/Programming/image_dithering/build/CMakeFiles/stb_impl.dir
+D:/ALI007/Programming/image_dithering/build/CMakeFiles/cpp_image_dithering.dir
+D:/ALI007/Programming/image_dithering/build/CMakeFiles/ALL_BUILD.dir
+D:/ALI007/Programming/image_dithering/build/CMakeFiles/ZERO_CHECK.dir
