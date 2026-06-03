@@ -14,11 +14,15 @@ int main()
             std::cout << "Enter your choice of dithering algorithm:\n" << 
                         "1. 2x2 Bayer\n" <<
                         "2. 4x4 Bayer\n" <<
-                        "3. 8x8 Bayer\n";
+                        "3. 8x8 Bayer\n" << 
+                        "0. Exit\n";
+            std::cin >> option;
 
-            if (!(std::cin >> option) || (option < 1) || (option > 3))
+            if ((option < 0) || (option > 3))
                 throw(std::out_of_range("Choose a number between 1, 2, 3!\n"));
-            
+            else if (!option)
+                return 0;
+
             break;
         }
         catch(const std::exception& e)
@@ -33,11 +37,12 @@ int main()
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cin.clear();
     std::getline(std::cin, path);
-    
-    
 
     switch (option)
     {
+    case 0:
+        return 0;
+
     case 1:
         if (!static_cast<bool>(bayer2x2(path)))
             std::cout << "Dithering Successful!\n";
