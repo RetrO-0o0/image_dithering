@@ -39,7 +39,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -103,7 +102,7 @@ events:
       The output was:
       0
       MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-      Build started 6/1/2026 9:49:27 PM.
+      Build started 6/3/2026 9:59:24 AM.
       
       Project "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -137,7 +136,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.71
+      Time Elapsed 00:00:01.21
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -213,7 +212,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -431,7 +429,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -543,7 +540,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -759,7 +755,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -871,7 +866,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -1134,7 +1128,6 @@ events:
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\aligh\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
         - "c:\\Users\\aligh\\.vscode\\extensions\\vadimcn.vscode-lldb-1.12.1\\bin"
-        - "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe"
         - "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\"
         - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
         - "C:\\Windows\\System32"
@@ -1197,8 +1190,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-5qfrdp"
-      binary: "D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-5qfrdp"
+      source: "D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-gxt5mm"
+      binary: "D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-gxt5mm"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od"
@@ -1208,45 +1201,45 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-5qfrdp'
+        Change Dir: 'D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-gxt5mm'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cb135.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cf084.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.13.19+0d9f5a35a for .NET Framework
-        Build started 6/1/2026 9:49:30 PM.
+        Build started 6/3/2026 9:59:26 AM.
         
-        Project "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\cmTC_cb135.vcxproj" on node 1 (default targets).
+        Project "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\cmTC_cf084.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_cb135.dir\\Debug\\".
+          Creating directory "cmTC_cf084.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\Debug\\".
-          Creating directory "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\".
+          Creating directory "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\Debug\\".
+          Creating directory "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\unsuccessfulbuild".
+          Creating "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\unsuccessfulbuild".
         VcpkgTripletSelection:
           Using triplet "x64-windows" from "C:\\Program Files\\vcpkg\\installed\\x64-windows\\"
           Using normalized configuration "Debug"
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Program Files\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cb135.dir\\Debug\\\\" /Fd"cmTC_cb135.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Program Files\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cf084.dir\\Debug\\\\" /Fd"cmTC_cf084.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34810 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /I"C:\\Program Files\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cb135.dir\\Debug\\\\" /Fd"cmTC_cb135.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /I"C:\\Program Files\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Fo"cmTC_cf084.dir\\Debug\\\\" /Fd"cmTC_cf084.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\Debug\\cmTC_cb135.exe" /INCREMENTAL /ILK:"cmTC_cb135.dir\\Debug\\cmTC_cb135.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-5qfrdp/Debug/cmTC_cb135.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-5qfrdp/Debug/cmTC_cb135.lib" /MACHINE:X64  /machine:x64 cmTC_cb135.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_cb135.vcxproj -> D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\Debug\\cmTC_cb135.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\Debug\\cmTC_cf084.exe" /INCREMENTAL /ILK:"cmTC_cf084.dir\\Debug\\cmTC_cf084.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-gxt5mm/Debug/cmTC_cf084.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/ALI007/Programming/image_dithering/build/CMakeFiles/CMakeScratch/TryCompile-gxt5mm/Debug/cmTC_cf084.lib" /MACHINE:X64  /machine:x64 cmTC_cf084.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_cf084.vcxproj -> D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\Debug\\cmTC_cf084.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Program Files\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\Debug\\cmTC_cb135.exe" "C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\cmTC_cb135.write.1u.tlog" "cmTC_cb135.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Program Files\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\Debug\\cmTC_cf084.exe" "C:\\Program Files\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\cmTC_cf084.write.1u.tlog" "cmTC_cf084.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          Deleting file "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\unsuccessfulbuild".
-          Touching "cmTC_cb135.dir\\Debug\\cmTC_cb135.tlog\\cmTC_cb135.lastbuildstate".
-        Done Building Project "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5qfrdp\\cmTC_cb135.vcxproj" (default targets).
+          Deleting file "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\unsuccessfulbuild".
+          Touching "cmTC_cf084.dir\\Debug\\cmTC_cf084.tlog\\cmTC_cf084.lastbuildstate".
+        Done Building Project "D:\\ALI007\\Programming\\image_dithering\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gxt5mm\\cmTC_cf084.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.75
+        Time Elapsed 00:00:01.01
         
       exitCode: 0
   -
