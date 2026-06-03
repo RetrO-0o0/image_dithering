@@ -1,7 +1,10 @@
-A program for dithering images.
+A dithering program
+
 
 Input format: .png, jpg, jpeg, ...(formats supported by stb library)
+
 Output format: .jpg
+
 Output path: where you lunch the cpp_image_dithering executable from.
 
 Current dithering algorithms:
