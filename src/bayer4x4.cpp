@@ -81,7 +81,7 @@ int bayer4x4(const std::string& input_path)
         }
     }
 
-    stbi_write_jpg("2.jpg", width, height, channels, image, 100);
+    stbi_write_png("2.png", width, height, channels, image, 100);
     stbi_image_free(image);
 
     return 0;

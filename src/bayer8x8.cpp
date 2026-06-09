@@ -82,7 +82,7 @@ int bayer8x8(const std::string& input_path)
         }
     }
 
-    stbi_write_jpg("3.jpg", width, height, channels, image, 100);
+    stbi_write_png("3.png", width, height, channels, image, 100);
     stbi_image_free(image);
 
     return 0;
