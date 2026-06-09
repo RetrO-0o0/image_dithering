@@ -3,7 +3,7 @@ A dithering program
 
 Input format: .png, jpg, jpeg, ...(formats supported by stb library)
 
-Output format: .jpg
+Output format: .png
 
 Output path: where you lunch the cpp_image_dithering executable from.
 

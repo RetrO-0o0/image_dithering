@@ -59,20 +59,23 @@ int bayer2x2(const std::string& input_path)
 
             unsigned char out {static_cast<unsigned char>((intensity >= threshold) ? 255 : 0)};
 
-            if (channels >= 3)
-            {
-                image[index + 0] = out;
-                image[index + 1] = out;
-                image[index + 2] = out;
-            }
-            else if (channels == 1)
-            {
-                image[index] = out;
-            }
-            else if (channels == 2)
-            {
-                image[index + 0] = out;
-            }
+            // if (channels >= 3)
+            // {
+            //     image[index + 0] = out;
+            //     image[index + 1] = out;
+            //     image[index + 2] = out;
+            // }
+            // else if (channels == 1)
+            // {
+            //     image[index] = out;
+            // }
+            // else if (channels == 2)
+            // {
+            //     image[index + 0] = out;
+            // }
+            
+            // allways grayscale output
+            image[index] = out;
         }
     }
 
