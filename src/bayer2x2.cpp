@@ -76,7 +76,7 @@ int bayer2x2(const std::string& input_path)
         }
     }
 
-    stbi_write_png("1.png", width, height, channels, image, 100);
+    stbi_write_png("1.png", width, height, channels, image, width * height);
     stbi_image_free(image);
 
     return 0;

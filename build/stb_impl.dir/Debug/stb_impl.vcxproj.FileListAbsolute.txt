@@ -1,0 +1,1 @@
+D:\ALI007\Programming\image_dithering\build\stb_impl.dir\Debug\stb_impl.lib
