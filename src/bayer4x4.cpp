@@ -16,11 +16,7 @@ int bayer4x4(const std::string& input_path)
         {3,  11, 1,  9},
         {15, 7,  13, 5}};
 
-    std::cout << "Enter the image path: ";
-    std::string path;
-    std::getline(std::cin, path);
-
-    unsigned char* image = stbi_load(path.c_str(), &width, &height, &channels, 0);
+    unsigned char* image = stbi_load(input_path.c_str(), &width, &height, &channels, 0);
 
     if (image == NULL)
     {
@@ -81,7 +77,7 @@ int bayer4x4(const std::string& input_path)
         }
     }
 
-    stbi_write_png("2.png", width, height, channels, image, width * height);
+    stbi_write_png("2.png", width, height, channels, image, width * channels);
     stbi_image_free(image);
 
     return 0;
